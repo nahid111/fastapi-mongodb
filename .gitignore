@@ -1,0 +1,7 @@
+/__pycache__
+/.idea
+/.vagrant
+/.vscode
+Pipfile.lock
+
+

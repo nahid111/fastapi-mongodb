@@ -1,0 +1,13 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[packages]
+fastapi = "*"
+uvicorn = "*"
+motor = "*"
+autopep8 = "*"
+
+[requires]
+python_version = "3.6"
